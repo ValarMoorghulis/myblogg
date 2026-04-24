@@ -10,23 +10,30 @@
 ############################
 
 # Name of website
-title: My website
+title: Zhou Yu website
 url: "https://valarmoorghulis.github.io"
 baseurl: ""
 
 # Your name to show in the footer
-author: Some Person
+author: yu.zhou
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  📂 技术专栏:
+    - 计算机技术: "categories#IT技术"
+    - 实验室 (Lab): "https://github.com" # 链接到你的 GitHub 项目页
+    - 常用工具: "tools"
+  🐠 兴趣生活:
+    - 养鱼日常: "categories#养鱼日常"
+    - 读书/影单: "library"
+    - 生活记录: "categories#生活记录"
+  🚀 关于:
+    - 自我介绍: "aboutme"
+    - 个人简历: "resume"
+    # - 站点统计: "stats" # 进阶玩法，以后可以加
 
 ################
 # --- Logo --- #
@@ -52,14 +59,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "1498364680@qq.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,16 +102,16 @@ rss-description: This website is a virtual proof that I'm awesome
 ###########################
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
+#   vk: false
+#   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "valarmoorghulis.github.io
 
 # Add the website title to the title of every page
 title-on-all-pages: true
