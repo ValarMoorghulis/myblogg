@@ -11,6 +11,8 @@
 
 # Name of website
 title: My website
+url: "https://github.io"
+baseurl: ""
 
 # Your name to show in the footer
 author: Some Person
