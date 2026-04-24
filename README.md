@@ -3,7 +3,7 @@
 这是我的个人博客仓库，基于 **Beautiful Jekyll** 主题构建，完全托管在 GitHub Pages 上。
 
 ## 🚀 快速访问
-- **博客主页**: [https://github.io](https://github.io)
+- **博客主页**: [https://ValarMoorghulis.github.io](https://github.io)
 - **仓库地址**: [ValarMoorghulis/valarmoorghulis.github.io](https://github.com)
 
 ---
